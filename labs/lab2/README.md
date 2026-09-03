@@ -1,1 +1,1 @@
-This repo contains assignments from APPM 4600 and allows other people to see my code 
+This repo contains assignments from APPM 4600 and allows other people to see my code. I am not very good at this, I do not understand it so much. I miss jupiter lab. Take me back
